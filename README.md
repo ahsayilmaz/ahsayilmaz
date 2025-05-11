@@ -25,7 +25,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 📈 GitHub Stats
 
-![Ahmetsaylmz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmetsaylmz&show_icons=true&theme=radical)
+![Ahmetsaylmz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsayilmaz&show_icons=true&theme=radical)
 
 ---
 
