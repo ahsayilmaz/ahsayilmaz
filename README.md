@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I’m @Ahmetsaylmz
 
-<!--
-**ahsayilmaz/ahsayilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 About Me
+
+- 🌍 **Location:** [Tükiye]
+- 👩‍💻 **Interests:** [Web development, Sql, Docker]
+- 🌱 **Currently Learning:** [Docker, .NET]
+- 🖇️ **Looking to Collaborate On:** [Web development on backend]
+- 📬 **How to Reach Me:** [ahsayilmazc@gmail.com, www.linkedin.com/in/ahmet-şahin-yılmaz-33b1222a2]
+- ⚡ **Fun Fact:** [English, Turkish, German]
+
+---
+
+## 🚀 Skills & Tools
+
+- **Languages:** [JavaScript, Python, C#]
+- **Frameworks & Libraries:** [React, .Net]
+- **Tools:** [Git, Docker, VS Code]
+
+---
+
+## 📈 GitHub Stats
+
+![Ahmetsaylmz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmetsaylmz&show_icons=true&theme=radical)
+
+---
+
+## 🏆 Achievements
+
+- 🌟 [CS50]
+
+---
+
+## 📚 Latest Projects
+
+- [Project Name 1](link-to-project): Short description of the project.
+- [Project Name 2](link-to-project): Short description of the project.
+
+---
+
+## 💬 Let's Connect!
+
+- [LinkedIn](www.linkedin.com/in/ahmet-şahin-yılmaz-33b1222a2)
+- [Your Blog/Website](your-website)
+
+---
+
+Ahmetsaylmz/Ahmetsaylmz is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. You can click the **Preview** link to take a look at your changes.
