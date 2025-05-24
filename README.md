@@ -49,5 +49,3 @@ Welcome to my GitHub profile! 🚀
 - [Your Blog/Website](your-website)
 
 ---
-
-Ahmetsaylmz/Ahmetsaylmz is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. You can click the **Preview** link to take a look at your changes.
